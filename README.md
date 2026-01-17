@@ -38,3 +38,24 @@ pip install -r requirements.txt├── config/             # yaml strategy & e
 cp .env.example .env
 # ← edit .env with your API keys!
 python main.py --strategy grid --symbol BTC/USDT
+
+
+
+# 🚀 WITAJ PRZYBYSZU
+
+Jeśli to czytasz, to znaczy że:
+
+✅ repo się otworzyło  
+✅ Git nie wybuchł  
+✅ a to oznacza tylko jedno…
+
+## 💎 BARDZO ŁADNE REPO 💎
+
+⭐ 10/10  
+⭐ poleciłbym koledze  
+⭐ działa nawet u mnie  
+
+> Autor repo: człowiek kultury  
+> Repo: piękniejsze niż dokumentacja  
+
+Miłego scrollowania 😎
